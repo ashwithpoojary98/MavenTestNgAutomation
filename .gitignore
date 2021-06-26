@@ -1,0 +1,10 @@
+*.class
+
+*.jar
+
+target/
+test-output/
+*.imls
+*.classpath
+*.settings/
+*.project
